@@ -46,7 +46,7 @@ header{
     font-size: 2.4rem;
 }
 span{
-    color:var(--text-color);
+    color:rgb(212, 214, 233);
 }
 
 .navbar{
